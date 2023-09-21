@@ -8,6 +8,7 @@ bits que queremos usar es 8, en vez de 4, el resultado será “00000100”.
 * Raquel:smiling_face_with_three_hearts:
 * Fuentes
 * Matutano
+---
 
 > [!IMPORTANT]
 > Guardar antes de salir
